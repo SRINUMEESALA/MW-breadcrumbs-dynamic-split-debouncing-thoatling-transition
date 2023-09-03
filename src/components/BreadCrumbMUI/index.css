@@ -1,0 +1,11 @@
+.styleActiveLink{
+    all: unset;
+    color: grey;
+text-decoration: none !important;
+}
+.styleInactiveLink{
+    all: unset;
+
+color: rgb(20, 112, 210);
+cursor: pointer;
+}
